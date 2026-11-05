@@ -64,6 +64,7 @@ def main():
  
     def clean(text):
         text = re.sub(r":Advancing to next round", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"Advancing to next round", "", text, flags=re.IGNORECASE)
         return re.sub(r"\s+", " ", text).strip()
  
     rows = [[clean(h), clean(a), sh, sa] for h, a, sh, sa in rows]

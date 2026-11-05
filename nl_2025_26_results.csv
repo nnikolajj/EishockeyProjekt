@@ -6,8 +6,8 @@ Fribourg;Davos;0;1
 Davos;Fribourg;2;3
 Fribourg;Davos;1;3
 Davos;Fribourg;2;3
-DavosAdvancing to next round: Davos;Zurich;2;1
-FribourgAdvancing to next round: Fribourg;Servette;6;2
+Davos: Davos;Zurich;2;1
+Fribourg: Fribourg;Servette;6;2
 Servette;Fribourg;3;4
 Zurich;Davos;2;5
 Davos;Zurich;1;0
@@ -16,17 +16,17 @@ Servette;Fribourg;7;3
 Zurich;Davos;3;1
 Davos;Zurich;4;2
 Fribourg;Servette;3;1
-ServetteAdvancing to next round: Servette;Lausanne;5;1
-FribourgAdvancing to next round: Fribourg;Rapperswil-Jona;4;3
+Servette: Servette;Lausanne;5;1
+Fribourg: Fribourg;Rapperswil-Jona;4;3
 Lausanne;Servette;3;4
 Ajoie;Ambri-PiottaWinner: Ambri-Piotta;0;3
 Rapperswil-Jona;Fribourg;1;3
 Servette;Lausanne;2;3
-DavosAdvancing to next round: Davos;Zug;4;1
+Davos: Davos;Zug;4;1
 Fribourg;Rapperswil-Jona;1;2
 Ambri-Piotta;Ajoie;3;2
 Lausanne;Servette;2;4
-Lugano;ZurichAdvancing to next round: Zurich;1;2
+Lugano;Zurich: Zurich;1;2
 Rapperswil-Jona;Fribourg;2;6
 Zug;Davos;5;2
 Servette;Lausanne;2;5
@@ -43,10 +43,10 @@ Zurich;Lugano;3;0
 Ambri-Piotta;Ajoie;5;3
 Davos;Zug;4;3
 Fribourg;Rapperswil-Jona;2;5
-Rapperswil-JonaAdvancing to next round: Rapperswil-Jona;Bern;4;0
+Rapperswil-Jona: Rapperswil-Jona;Bern;4;0
 Bern;Rapperswil-Jona;1;2
-BernAdvancing to next round: Bern;Biel;4;0
-Rapperswil-Jona;ZugAdvancing to next round: Zug;2;1
+Bern: Bern;Biel;4;0
+Rapperswil-Jona;Zug: Zug;2;1
 Biel;Bern;4;3
 Zug;Rapperswil-Jona;5;2
 Bern;Fribourg;3;4
