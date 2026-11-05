@@ -1,13 +1,13 @@
 ﻿Heimmannschaft;Auswärtsmannschaft;Heim Score;Auswärts Score
-Lausanne;ZurichWinner: Zurich;2;3
+Lausanne;Zurich;2;3
 Zurich;Lausanne;3;1
 Lausanne;Zurich;4;2
 Zurich;Lausanne;3;2
 Lausanne;Zurich;0;3
-Lausanne: Lausanne;Fribourg;5;1
-Davos;Zurich: Zurich;4;6
+Lausanne;Fribourg;5;1
+Davos;Zurich;4;6
 Fribourg;Lausanne;1;4
-AjoieWinner: Ajoie;Visp;5;1
+Ajoie;Visp;5;1
 Visp;Ajoie;0;3
 Lausanne;Fribourg;2;1
 Zurich;Davos;3;0
@@ -22,17 +22,17 @@ Fribourg;Lausanne;0;1
 Ajoie;Visp;2;3
 Lausanne;Fribourg;2;3
 Zurich;Davos;6;1
-Bern;Fribourg: Fribourg;1;4
-Lausanne: Lausanne;Langnau Tigers;6;2
-Ajoie;LuganoWinner: Lugano;1;2
+Bern;Fribourg;1;4
+Lausanne;Langnau Tigers;6;2
+Ajoie;Lugano;1;2
 Fribourg;Bern;3;4
 Langnau Tigers;Lausanne;3;2
 Lugano;Ajoie;3;0
 Bern;Fribourg;3;2
 Lausanne;Langnau Tigers;4;1
-Zurich: Zurich;EHC Kloten;5;2
+Zurich;EHC Kloten;5;2
 Ajoie;Lugano;3;4
-Davos: Davos;Zug;5;2
+Davos;Zug;5;2
 Fribourg;Bern;2;1
 EHC Kloten;Zurich;2;1
 Langnau Tigers;Lausanne;3;2
@@ -51,10 +51,10 @@ Bern;Fribourg;3;4
 Zug;Davos;1;2
 Lausanne;Langnau Tigers;4;3
 Zurich;EHC Kloten;5;1
-EHC Kloten: EHC Kloten;Ambri-Piotta;5;4
+EHC Kloten;Ambri-Piotta;5;4
 Ambri-Piotta;EHC Kloten;4;5
-EHC Kloten;Langnau Tigers: Langnau Tigers;2;1
-Rapperswil-Jona;Ambri-Piotta: Ambri-Piotta;3;3
+EHC Kloten;Langnau Tigers;2;1
+Rapperswil-Jona;Ambri-Piotta;3;3
 Ambri-Piotta;Rapperswil-Jona;2;1
 Langnau Tigers;EHC Kloten;3;1
 Bern;Servette;5;1

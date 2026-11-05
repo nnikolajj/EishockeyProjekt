@@ -9,7 +9,8 @@ URLS = {
 
 
 def clean(text):
-    text = re.sub(r":?Advancing to next round", "", text, flags=re.IGNORECASE)
+    text = re.sub(r":?Advancing to next round: .*$", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"Winner:.*$", "", text)   # "WinterthurWinner: Winterthur" -> "Winterthur"
     return re.sub(r"\s+", " ", text).strip()
 
 
