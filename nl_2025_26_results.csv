@@ -104,3 +104,312 @@ Zug;Lausanne;1;4
 Ambri-Piotta;Lugano;3;2
 Rapperswil-Jona;Davos;3;4
 Servette;Fribourg;3;5
+Biel;Ajoie;6;3
+Davos;Zug;4;1
+EHC Kloten;Zurich;2;4
+Fribourg;Ambri-Piotta;4;3
+Langnau Tigers;Bern;3;4
+Lugano;Rapperswil-Jona;7;3
+Servette;Ambri-Piotta;3;4
+Ajoie;EHC Kloten;4;2
+Bern;Lausanne;3;1
+Biel;Rapperswil-Jona;5;4
+Lugano;Davos;1;4
+Zug;Langnau Tigers;3;1
+Zurich;Fribourg;3;4
+Ambri-Piotta;Zurich;2;4
+EHC Kloten;Zug;1;2
+Fribourg;Lugano;3;2
+Langnau Tigers;Ajoie;2;3
+Lausanne;Biel;2;1
+Rapperswil-Jona;Bern;0;2
+Lausanne;Rapperswil-Jona;3;4
+Lugano;Langnau Tigers;4;3
+Ajoie;Davos;2;5
+Ambri-Piotta;EHC Kloten;2;5
+Fribourg;Biel;6;1
+Servette;Zug;4;1
+Zurich;Bern;3;4
+Bern;Lugano;1;4
+EHC Kloten;Lausanne;2;3
+Langnau Tigers;Servette;3;0
+Rapperswil-Jona;Zurich;1;3
+Zug;Ajoie;2;4
+Biel;Ambri-Piotta;3;2
+Ajoie;Langnau Tigers;2;1
+Lausanne;Servette;0;3
+Zug;Lugano;2;3
+Zurich;EHC Kloten;1;0
+Ambri-Piotta;Rapperswil-Jona;4;3
+Biel;Bern;1;2
+EHC Kloten;Servette;1;3
+Langnau Tigers;Davos;3;1
+Lausanne;Fribourg;0;4
+Zug;Zurich;2;3
+Ajoie;Biel;1;2
+Bern;Ambri-Piotta;0;1
+Davos;Lausanne;5;1
+Rapperswil-Jona;Langnau Tigers;2;1
+Fribourg;Zug;3;2
+Servette;Lugano;2;1
+Lausanne;Lugano;2;5
+Ajoie;Zurich;3;5
+Ambri-Piotta;Zug;4;0
+Biel;Davos;4;3
+EHC Kloten;Bern;2;3
+Fribourg;Langnau Tigers;4;3
+Servette;Rapperswil-Jona;3;1
+Bern;Servette;0;3
+Davos;Ambri-Piotta;7;3
+Langnau Tigers;Biel;4;0
+Lugano;Fribourg;3;2
+Rapperswil-Jona;Ajoie;2;1
+Zug;EHC Kloten;1;2
+Zurich;Lausanne;3;2
+Ambri-Piotta;Langnau Tigers;0;3
+Biel;Lugano;3;1
+EHC Kloten;Davos;4;1
+Lausanne;Zug;7;0
+Ajoie;Bern;3;4
+Servette;Zurich;5;3
+Ambri-Piotta;Ajoie;2;5
+Bern;Rapperswil-Jona;3;2
+EHC Kloten;Fribourg;4;3
+Langnau Tigers;Lugano;2;4
+Servette;Lausanne;7;3
+Zug;Davos;3;2
+Zurich;Biel;4;2
+Lausanne;Bern;2;3
+Lugano;Ajoie;6;1
+Biel;Servette;3;2
+Davos;Lugano;5;4
+Fribourg;Zurich;4;2
+Langnau Tigers;EHC Kloten;4;3
+Lausanne;Ambri-Piotta;5;1
+Rapperswil-Jona;Zug;4;2
+Ajoie;Lausanne;3;4
+Ambri-Piotta;Fribourg;5;6
+Bern;Davos;2;3
+EHC Kloten;Rapperswil-Jona;5;2
+Servette;Langnau Tigers;1;4
+Zug;Biel;4;0
+Fribourg;Ajoie;4;2
+Zug;EHC Kloten;5;4
+Zurich;Lugano;5;3
+Lugano;Bern;3;1
+Zurich;Rapperswil-Jona;3;1
+EHC Kloten;Ambri-Piotta;2;1
+Fribourg;Davos;4;0
+Bern;Langnau Tigers;5;1
+Biel;Lausanne;1;2
+Servette;Ajoie;6;1
+Ajoie;Fribourg;1;5
+Davos;Zurich;2;3
+Langnau Tigers;Zug;3;1
+Lugano;EHC Kloten;4;1
+Rapperswil-Jona;Biel;2;3
+Ambri-Piotta;Servette;5;2
+Bern;Biel;6;2
+Davos;Servette;6;2
+Fribourg;Rapperswil-Jona;2;4
+Langnau Tigers;Lausanne;3;4
+Rapperswil-Jona;Lugano;3;2
+Ajoie;Zug;3;2
+Ambri-Piotta;Biel;5;4
+Fribourg;Bern;2;1
+Servette;Davos;3;2
+Zurich;Langnau Tigers;2;3
+Bern;Zurich;2;1
+Biel;Fribourg;2;3
+Davos;Rapperswil-Jona;4;3
+EHC Kloten;Ajoie;2;3
+Lugano;Ambri-Piotta;5;1
+Zug;Servette;3;1
+Lausanne;Langnau Tigers;6;4
+Biel;EHC Kloten;3;1
+Davos;Ajoie;8;0
+Fribourg;Servette;2;5
+Rapperswil-Jona;Lausanne;3;4
+Zug;Bern;4;2
+Zurich;Ambri-Piotta;3;2
+Ambri-Piotta;Rapperswil-Jona;1;5
+Bern;Davos;0;3
+Langnau Tigers;EHC Kloten;6;1
+Lausanne;Zug;5;2
+Servette;Zurich;4;1
+Biel;Langnau Tigers;6;5
+EHC Kloten;Bern;4;2
+Fribourg;Lausanne;2;1
+Rapperswil-Jona;Servette;2;5
+Zug;Lugano;2;3
+Zurich;Ajoie;2;3
+Davos;Ambri-Piotta;4;6
+Lugano;Fribourg;0;4
+Ajoie;Biel;3;4
+Davos;Zug;5;1
+Zurich;Lausanne;1;2
+Ajoie;Servette;2;0
+Ambri-Piotta;Fribourg;4;2
+Langnau Tigers;Bern;3;4
+Lugano;Biel;6;0
+Rapperswil-Jona;EHC Kloten;3;2
+Bern;Rapperswil-Jona;5;2
+Biel;Zurich;0;2
+EHC Kloten;Lugano;1;2
+Fribourg;Davos;5;3
+Lausanne;Ajoie;3;2
+Zug;Ambri-Piotta;4;2
+Servette;Langnau Tigers;3;1
+Fribourg;Ajoie;5;1
+Langnau Tigers;Lugano;3;0
+Ambri-Piotta;Biel;3;1
+Bern;Zurich;0;3
+Davos;Rapperswil-Jona;6;1
+EHC Kloten;Lausanne;2;1
+Lugano;Servette;6;2
+Ajoie;Ambri-Piotta;4;5
+Biel;Bern;5;6
+Rapperswil-Jona;Fribourg;0;1
+Zurich;Langnau Tigers;4;2
+Servette;Zug;0;1
+Lausanne;Davos;3;2
+Ambri-Piotta;Lugano;2;5
+Bern;Ajoie;4;5
+Biel;Lausanne;6;1
+EHC Kloten;Fribourg;4;2
+Langnau Tigers;Zug;4;2
+Servette;Davos;7;0
+Zurich;Rapperswil-Jona;7;0
+Davos;Langnau Tigers;5;3
+EHC Kloten;Zurich;1;4
+Fribourg;Bern;1;2
+Lausanne;Ambri-Piotta;5;1
+Lugano;Rapperswil-Jona;3;0
+Servette;Biel;6;0
+Ajoie;Davos;2;4
+Ambri-Piotta;Servette;5;2
+Bern;Lugano;1;4
+Biel;EHC Kloten;5;1
+Langnau Tigers;Lausanne;1;2
+Rapperswil-Jona;Zug;2;6
+Zurich;Fribourg;1;2
+Zug;Ajoie;8;3
+Ajoie;Langnau Tigers;2;1
+Ambri-Piotta;Bern;0;5
+Davos;Biel;4;3
+EHC Kloten;Servette;2;3
+Fribourg;Zug;5;2
+Lausanne;Rapperswil-Jona;2;1
+Lugano;Zurich;5;1
+Rapperswil-Jona;Ajoie;3;2
+Zug;Biel;4;3
+Davos;Zurich;3;1
+EHC Kloten;Ambri-Piotta;1;3
+Langnau Tigers;Fribourg;6;0
+Lausanne;Lugano;1;5
+Servette;Bern;2;1
+Ajoie;EHC Kloten;0;3
+Ambri-Piotta;Langnau Tigers;2;4
+Bern;Lausanne;0;2
+Biel;Rapperswil-Jona;4;6
+Fribourg;Servette;6;2
+Zurich;Zug;2;3
+Lugano;Davos;0;3
+Davos;Bern;2;1
+Ajoie;Lugano;1;2
+Servette;Lausanne;5;3
+Bern;Zug;3;0
+Biel;Fribourg;2;1
+EHC Kloten;Davos;2;3
+Langnau Tigers;Rapperswil-Jona;1;4
+Zurich;Ambri-Piotta;1;2
+Ambri-Piotta;Ajoie;3;2
+Lausanne;Biel;3;4
+Lugano;Langnau Tigers;2;5
+Rapperswil-Jona;Zurich;3;2
+Zug;Servette;1;4
+Fribourg;EHC Kloten;4;3
+Ambri-Piotta;Davos;4;6
+Biel;Servette;8;0
+Lugano;EHC Kloten;5;4
+Ajoie;Zug;1;3
+Bern;Langnau Tigers;2;1
+Davos;Fribourg;4;2
+Lausanne;Zurich;1;3
+Rapperswil-Jona;Ambri-Piotta;4;2
+EHC Kloten;Biel;2;1
+Fribourg;Rapperswil-Jona;2;3
+Langnau Tigers;Ajoie;1;0
+Servette;Lugano;1;5
+Zug;Lausanne;4;2
+Zurich;Bern;7;3
+Lausanne;EHC Kloten;2;1
+Ajoie;Lausanne;1;2
+Bern;Fribourg;1;5
+Biel;Zug;2;0
+Langnau Tigers;Servette;3;4
+Lugano;Ambri-Piotta;1;2
+Rapperswil-Jona;Davos;4;3
+Zurich;EHC Kloten;2;0
+Lausanne;Bern;6;3
+Biel;Ajoie;5;4
+Davos;Servette;3;2
+EHC Kloten;Langnau Tigers;2;3
+Fribourg;Ambri-Piotta;3;1
+Rapperswil-Jona;Lugano;1;4
+Zug;Zurich;2;1
+Ajoie;Fribourg;2;5
+Ambri-Piotta;Zug;0;4
+Bern;EHC Kloten;0;1
+Langnau Tigers;Biel;3;4
+Lugano;Lausanne;4;5
+Servette;Rapperswil-Jona;3;4
+Zurich;Davos;2;5
+EHC Kloten;Ajoie;2;1
+Fribourg;Zurich;3;2
+Lausanne;Langnau Tigers;4;1
+Lugano;Bern;0;3
+Rapperswil-Jona;Biel;5;2
+Servette;Ambri-Piotta;5;4
+Zug;Davos;3;4
+Ajoie;Bern;4;0
+Biel;Ambri-Piotta;3;2
+Davos;Lugano;2;0
+Fribourg;Langnau Tigers;5;2
+Lausanne;EHC Kloten;3;5
+Zug;Rapperswil-Jona;0;6
+Zurich;Servette;2;4
+Ambri-Piotta;Zurich;2;5
+EHC Kloten;Zug;2;5
+Langnau Tigers;Davos;3;4
+Lugano;Ajoie;2;0
+Rapperswil-Jona;Lausanne;0;4
+Servette;Fribourg;3;2
+Ajoie;Rapperswil-Jona;2;4
+Bern;Ambri-Piotta;3;1
+Biel;Lugano;3;2
+Davos;EHC Kloten;4;2
+Langnau Tigers;Zurich;2;1
+Lausanne;Servette;11;0
+Zug;Fribourg;4;5
+Davos;Ajoie;6;0
+Ambri-Piotta;Lausanne;0;3
+Fribourg;Biel;4;0
+Rapperswil-Jona;Bern;2;1
+Servette;EHC Kloten;4;2
+Zug;Langnau Tigers;3;4
+Zurich;Lugano;5;1
+Ajoie;Zurich;0;4
+Bern;Servette;2;1
+EHC Kloten;Rapperswil-Jona;5;3
+Langnau Tigers;Ambri-Piotta;3;2
+Lausanne;Fribourg;5;1
+Lugano;Zug;1;2
+Biel;Davos;1;4
+Ambri-Piotta;EHC Kloten;2;1
+Davos;Lausanne;4;1
+Fribourg;Lugano;3;2
+Rapperswil-Jona;Langnau Tigers;5;1
+Servette;Ajoie;5;3
+Zug;Bern;3;0
+Zurich;Biel;4;3
