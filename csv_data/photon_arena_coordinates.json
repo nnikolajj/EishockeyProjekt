@@ -1,0 +1,107 @@
+{
+  "Ajoie": {
+    "lat": 47.4165585,
+    "lon": 7.091548,
+    "name": "Patinoire",
+    "stadt": "Porrentruy",
+    "osm_typ": "bus_stop"
+  },
+  "Ambri-Piotta": {
+    "lat": 46.5130579,
+    "lon": 8.6965786,
+    "name": "Gottardo Arena",
+    "stadt": "Ambrì",
+    "osm_typ": "ice_rink"
+  },
+  "Bern": {
+    "lat": 46.9585134,
+    "lon": 7.4685943,
+    "name": "PostFinance-Arena",
+    "stadt": "Bern",
+    "osm_typ": "stadium"
+  },
+  "Biel": {
+    "lat": 47.1556223,
+    "lon": 7.2816966,
+    "name": "Tissot Arena",
+    "stadt": "Biel/Bienne",
+    "osm_typ": "stadium"
+  },
+  "Davos": {
+    "lat": 46.7985208,
+    "lon": 9.8263841,
+    "name": "Eisstadion Davos",
+    "stadt": "Davos Platz",
+    "osm_typ": "sports_hall"
+  },
+  "EHC Kloten": {
+    "lat": 47.4418228,
+    "lon": 8.5837217,
+    "name": "SWISS Arena",
+    "stadt": "Kloten",
+    "osm_typ": "stadium"
+  },
+  "Fribourg": {
+    "lat": 46.8173729,
+    "lon": 7.1555414,
+    "name": "BCF Arena",
+    "stadt": "Fribourg",
+    "osm_typ": "stadium"
+  },
+  "Langnau Tigers": {
+    "lat": 46.9362355,
+    "lon": 7.7860977,
+    "name": "Emmental Versicherung Arena",
+    "stadt": "Langnau im Emmental",
+    "osm_typ": "sports"
+  },
+  "Lausanne": {
+    "lat": 46.5286134,
+    "lon": 6.5991034,
+    "name": "Vaudoise Aréna",
+    "stadt": "Prilly",
+    "osm_typ": "sports_centre"
+  },
+  "Lugano": {
+    "lat": 46.0263229,
+    "lon": 8.9632042,
+    "name": "Pista di ghiaccio della Resega",
+    "stadt": "Porza",
+    "osm_typ": "ice_rink"
+  },
+  "Rapperswil-Jona": {
+    "lat": 47.2230916,
+    "lon": 8.8254728,
+    "name": "St. Galler Kantonalbank Arena",
+    "stadt": "Rapperswil SG",
+    "osm_typ": "stadium"
+  },
+  "Servette": {
+    "lat": 46.1945061,
+    "lon": 6.1330111,
+    "name": "Patinoire des Vernets",
+    "stadt": "Geneva",
+    "osm_typ": "yes"
+  },
+  "Visp": {
+    "lat": 46.2931171,
+    "lon": 7.8915772,
+    "name": "LONZA Arena",
+    "stadt": "Visp",
+    "osm_typ": "ice_rink"
+  },
+  "Zug": {
+    "lat": 47.1766081,
+    "lon": 8.5072922,
+    "name": "",
+    "stadt": "Zug",
+    "osm_typ": "house"
+  },
+  "Zurich": {
+    "lat": 47.3952788,
+    "lon": 8.4799793,
+    "name": "Swiss Life Arena",
+    "stadt": "Zurich",
+    "osm_typ": "fire_detection_system"
+  }
+}
