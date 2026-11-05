@@ -76,7 +76,6 @@ def main():
         w.writerows(rows)
  
     print(f"{len(rows)} Spiele -> {OUT}")
- 
- 
+
 if __name__ == "__main__":
     main()
