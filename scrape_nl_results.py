@@ -5,8 +5,12 @@ from playwright.sync_api import sync_playwright
 URLS = {
     "2025_26": "https://www.flashscore.com/hockey/switzerland/national-league-2025-2026/results/",
     "2024_25": "https://www.flashscore.com/hockey/switzerland/national-league-2024-2025/results/",
+    "2023_24": "https://www.flashscore.com/hockey/switzerland/national-league-2023-2024/results/",
+    "2022_23": "https://www.flashscore.com/hockey/switzerland/national-league-2022-2023/results/",
+    "2021_22": "https://www.flashscore.com/hockey/switzerland/national-league-2021-2022/results/",
+    "2020_21": "https://www.flashscore.com/hockey/switzerland/national-league-2020-2021/results/",
+    "2019_20": "https://www.flashscore.com/hockey/switzerland/national-league-2019-2020/results/",
 }
-
 
 def clean(text):
     text = re.sub(r":?Advancing to next round: .*$", "", text, flags=re.IGNORECASE)

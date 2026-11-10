@@ -1,0 +1,378 @@
+﻿Heimmannschaft;Auswärtsmannschaft;Heim Score;Auswärts Score
+Zug;Zurich;3;1
+Zurich;Zug;0;2
+Zug;Zurich;4;1
+Zurich;Zug;1;4
+Zug;Zurich;1;2
+Zurich;Zug;2;1
+Zug;Zurich;2;3
+Davos;Zug;1;2
+Zurich;Fribourg;6;2
+Fribourg;Zurich;2;3
+Zug;Davos;3;0
+Davos;Zug;1;2
+Zurich;Fribourg;3;2
+Fribourg;Zurich;2;3
+Zug;Davos;3;0
+Rapperswil-Jona;Davos;1;3
+Davos;Rapperswil-Jona;7;3
+Zurich;Biel;3;1
+Biel;Zurich;1;3
+Fribourg;Lausanne;5;4
+Rapperswil-Jona;Davos;2;3
+Davos;Rapperswil-Jona;2;0
+Lausanne;Fribourg;1;4
+Lugano;Zug;3;5
+Zurich;Biel;1;3
+Biel;Zurich;0;1
+Fribourg;Lausanne;3;2
+Rapperswil-Jona;Davos;4;0
+Zug;Lugano;6;3
+Davos;Rapperswil-Jona;1;4
+Lausanne;Fribourg;5;4
+Lugano;Zug;2;6
+Zurich;Biel;1;0
+Biel;Zurich;4;3
+Fribourg;Lausanne;2;0
+Rapperswil-Jona;Davos;4;3
+Zug;Lugano;2;1
+Zurich;Biel;4;5
+Lausanne;Ambri-Piotta;5;1
+Ambri-Piotta;Lausanne;1;2
+Lugano;Servette;4;3
+Lausanne;Ambri-Piotta;1;2
+Servette;Lugano;1;2
+Ambri-Piotta;Rapperswil-Jona;6;2
+Bern;Lausanne;1;4
+Biel;Lugano;4;1
+Davos;Fribourg;2;0
+Langnau Tigers;Servette;1;9
+Zug;Zurich;1;2
+Biel;Zug;3;2
+Fribourg;Ambri-Piotta;0;2
+Langnau Tigers;Davos;3;7
+Rapperswil-Jona;Ajoie;5;0
+Servette;Lausanne;3;2
+Zurich;Lugano;5;4
+Ajoie;Langnau Tigers;2;1
+Ambri-Piotta;Biel;2;1
+Bern;Zurich;2;1
+Lausanne;Fribourg;2;0
+Lugano;Rapperswil-Jona;4;3
+Bern;Ambri-Piotta;1;5
+Servette;Ajoie;4;1
+Ajoie;Bern;1;3
+Ambri-Piotta;Fribourg;2;1
+Biel;Davos;2;3
+Servette;Lugano;3;2
+Zug;Lausanne;0;3
+Zurich;Rapperswil-Jona;5;0
+Lausanne;Zug;4;0
+Bern;Rapperswil-Jona;2;4
+Ambri-Piotta;Bern;3;2
+Davos;Ajoie;3;0
+Langnau Tigers;Zurich;1;4
+Lugano;Fribourg;5;2
+Rapperswil-Jona;Biel;3;1
+Servette;Zug;4;0
+Ajoie;Servette;4;3
+Biel;Lausanne;2;3
+Zug;Davos;7;2
+Lausanne;Lugano;8;4
+Davos;Biel;3;2
+Zug;Fribourg;4;3
+Ambri-Piotta;Servette;1;5
+Bern;Biel;2;5
+Fribourg;Zug;6;2
+Lausanne;Langnau Tigers;8;2
+Lugano;Ajoie;5;1
+Rapperswil-Jona;Zurich;1;4
+Bern;Ajoie;2;1
+Ajoie;Zurich;3;1
+Davos;Lugano;3;1
+Langnau Tigers;Fribourg;4;2
+Lausanne;Rapperswil-Jona;2;5
+Servette;Bern;2;1
+Zug;Ambri-Piotta;8;2
+Ambri-Piotta;Lausanne;3;5
+Bern;Langnau Tigers;3;1
+Biel;Ajoie;3;0
+Fribourg;Servette;5;3
+Lugano;Zug;2;3
+Zurich;Davos;4;3
+Fribourg;Lausanne;6;3
+Rapperswil-Jona;Lugano;2;4
+Davos;Servette;1;2
+Lausanne;Ambri-Piotta;3;2
+Zurich;Zug;2;5
+Davos;Bern;4;3
+Fribourg;Biel;5;3
+Langnau Tigers;Lugano;4;7
+Servette;Zurich;3;0
+Zug;Ajoie;11;0
+Ajoie;Fribourg;1;4
+Bern;Zug;4;1
+Biel;Langnau Tigers;7;3
+Lugano;Ambri-Piotta;4;1
+Rapperswil-Jona;Davos;0;3
+Zurich;Lausanne;5;1
+Ajoie;Rapperswil-Jona;3;7
+Bern;Servette;3;1
+Zug;Lugano;5;4
+Zurich;Ambri-Piotta;5;2
+Lausanne;Ajoie;5;4
+Ambri-Piotta;Davos;3;2
+Fribourg;Rapperswil-Jona;3;2
+Lugano;Bern;3;2
+Servette;Biel;3;2
+Zug;Langnau Tigers;8;2
+Ajoie;Zug;3;6
+Bern;Fribourg;0;3
+Biel;Zurich;2;3
+Davos;Lausanne;3;4
+Langnau Tigers;Ambri-Piotta;0;4
+Rapperswil-Jona;Servette;2;1
+Servette;Fribourg;4;1
+Ajoie;Lugano;3;7
+Fribourg;Bern;3;1
+Langnau Tigers;Rapperswil-Jona;1;3
+Servette;Lausanne;4;3
+Zug;Biel;3;2
+Zurich;Davos;3;2
+Rapperswil-Jona;Langnau Tigers;5;3
+Lausanne;Ambri-Piotta;3;2
+Lugano;Biel;2;3
+Zurich;Zug;0;1
+Ajoie;Zurich;1;6
+Bern;Servette;1;4
+Davos;Rapperswil-Jona;0;2
+Zug;Lugano;5;0
+Lausanne;Bern;4;3
+Rapperswil-Jona;Ambri-Piotta;2;5
+Servette;Langnau Tigers;5;1
+Biel;Bern;8;7
+Davos;Langnau Tigers;4;1
+Lugano;Zurich;2;3
+Ambri-Piotta;Zug;2;3
+Servette;Davos;4;0
+Biel;Ambri-Piotta;4;0
+Zurich;Bern;4;3
+Lausanne;Servette;3;1
+Servette;Ambri-Piotta;4;3
+Zurich;Fribourg;4;2
+Ajoie;Davos;1;2
+Lugano;Lausanne;5;1
+Zug;Servette;1;5
+Zurich;Langnau Tigers;3;2
+Davos;Zug;1;2
+Fribourg;Lugano;3;2
+Lausanne;Biel;1;2
+Rapperswil-Jona;Bern;2;1
+Fribourg;Langnau Tigers;5;1
+Lugano;Davos;6;4
+Rapperswil-Jona;Lausanne;7;0
+Zurich;Ajoie;8;2
+Ajoie;Biel;1;4
+Davos;Zurich;1;5
+Langnau Tigers;Bern;2;3
+Davos;Rapperswil-Jona;4;3
+Ajoie;Ambri-Piotta;1;4
+Bern;Davos;3;1
+Biel;Fribourg;1;3
+Lugano;Langnau Tigers;4;1
+Rapperswil-Jona;Zug;5;2
+Ambri-Piotta;Lugano;1;2
+Fribourg;Ajoie;6;3
+Langnau Tigers;Biel;2;5
+Lausanne;Zurich;5;2
+Zug;Bern;2;1
+Servette;Zurich;3;1
+Ambri-Piotta;Langnau Tigers;5;6
+Rapperswil-Jona;Zurich;6;5
+Davos;Ambri-Piotta;2;0
+Ajoie;Lausanne;1;6
+Ambri-Piotta;Zurich;2;3
+Bern;Lugano;2;3
+Biel;Servette;1;3
+Langnau Tigers;Zug;0;5
+Rapperswil-Jona;Fribourg;4;5
+Fribourg;Bern;4;3
+Lausanne;Davos;2;3
+Servette;Rapperswil-Jona;2;0
+Zurich;Biel;5;2
+Davos;Langnau Tigers;1;6
+Lausanne;Ajoie;2;0
+Lugano;Servette;3;0
+Zug;Ambri-Piotta;3;4
+Zurich;Fribourg;5;4
+Fribourg;Zurich;4;3
+Rapperswil-Jona;Ajoie;6;3
+Ambri-Piotta;Zug;4;6
+Davos;Zurich;4;1
+Lausanne;Bern;3;1
+Servette;Biel;2;1
+Ajoie;Rapperswil-Jona;2;5
+Bern;Lausanne;3;2
+Biel;Ambri-Piotta;3;2
+Lugano;Fribourg;3;4
+Zug;Langnau Tigers;3;2
+Biel;Ajoie;8;1
+Langnau Tigers;Rapperswil-Jona;1;4
+Zurich;Lausanne;1;0
+Ambri-Piotta;Servette;2;3
+Bern;Zurich;6;1
+Davos;Fribourg;0;2
+Langnau Tigers;Ajoie;8;2
+Lausanne;Lugano;4;8
+Zug;Biel;4;3
+Ajoie;Davos;3;1
+Fribourg;Langnau Tigers;4;3
+Lugano;Ambri-Piotta;5;2
+Rapperswil-Jona;Bern;2;3
+Servette;Zug;3;4
+Ambri-Piotta;Ajoie;2;0
+Biel;Rapperswil-Jona;1;2
+Davos;Zug;2;0
+Ambri-Piotta;Davos;2;3
+Bern;Lugano;3;1
+Servette;Ajoie;3;4
+Zug;Rapperswil-Jona;0;3
+Ajoie;Zug;0;2
+Biel;Bern;6;2
+Davos;Lausanne;4;1
+Fribourg;Servette;3;1
+Lugano;Zurich;1;4
+Rapperswil-Jona;Langnau Tigers;4;3
+Ajoie;Bern;2;5
+Langnau Tigers;Davos;2;3
+Lausanne;Fribourg;6;3
+Rapperswil-Jona;Ambri-Piotta;4;1
+Servette;Biel;3;1
+Zug;Lugano;6;1
+Zurich;Langnau Tigers;5;2
+Ambri-Piotta;Ajoie;3;2
+Davos;Biel;8;0
+Fribourg;Zug;4;5
+Lausanne;Rapperswil-Jona;2;5
+Lugano;Servette;1;4
+Ajoie;Zurich;4;3
+Biel;Lugano;4;1
+Langnau Tigers;Bern;1;5
+Rapperswil-Jona;Davos;4;1
+Zug;Ambri-Piotta;2;0
+Servette;Lausanne;2;3
+Ambri-Piotta;Langnau Tigers;3;1
+Bern;Servette;3;2
+Fribourg;Biel;0;1
+Lausanne;Zug;3;4
+Lugano;Ajoie;4;1
+Zurich;Rapperswil-Jona;3;4
+Lausanne;Biel;4;2
+Ajoie;Lausanne;2;6
+Bern;Davos;3;6
+Biel;Rapperswil-Jona;4;2
+Fribourg;Ambri-Piotta;3;1
+Lugano;Zug;2;6
+Servette;Langnau Tigers;3;2
+Ambri-Piotta;Zurich;0;2
+Davos;Servette;3;0
+Langnau Tigers;Lugano;6;5
+Rapperswil-Jona;Fribourg;5;4
+Zug;Bern;5;2
+Ambri-Piotta;Lausanne;3;2
+Fribourg;Bern;5;3
+Rapperswil-Jona;Lugano;1;3
+Zurich;Servette;7;5
+Ajoie;Fribourg;0;5
+Bern;Ambri-Piotta;3;2
+Lausanne;Langnau Tigers;1;4
+Lugano;Davos;1;3
+Servette;Rapperswil-Jona;4;1
+Zurich;Biel;1;4
+Ambri-Piotta;Lugano;2;1
+Biel;Lausanne;1;3
+Fribourg;Servette;2;0
+Langnau Tigers;Ajoie;9;3
+Rapperswil-Jona;Zurich;3;1
+Langnau Tigers;Biel;1;4
+Ajoie;Davos;2;4
+Bern;Biel;1;2
+Lausanne;Fribourg;1;3
+Lugano;Ambri-Piotta;3;1
+Zug;Rapperswil-Jona;3;2
+Zurich;Langnau Tigers;2;4
+Ambri-Piotta;Bern;3;2
+Biel;Zurich;1;5
+Davos;Lugano;3;1
+Fribourg;Ajoie;4;1
+Langnau Tigers;Lausanne;3;4
+Rapperswil-Jona;Servette;4;2
+Servette;Davos;2;3
+Davos;Ajoie;6;0
+Ajoie;Langnau Tigers;3;2
+Biel;Zug;4;2
+Fribourg;Davos;6;3
+Lugano;Lausanne;1;4
+Servette;Ambri-Piotta;4;10
+Zurich;Bern;0;1
+Ambri-Piotta;Lugano;3;4
+Bern;Rapperswil-Jona;4;1
+Langnau Tigers;Fribourg;1;3
+Lausanne;Zurich;2;3
+Zug;Servette;5;4
+Ambri-Piotta;Biel;4;0
+Fribourg;Lugano;3;2
+Langnau Tigers;Zug;1;2
+Lausanne;Bern;4;1
+Rapperswil-Jona;Ajoie;3;2
+Zurich;Davos;4;3
+Davos;Ambri-Piotta;5;3
+Ajoie;Servette;3;4
+Biel;Langnau Tigers;1;4
+Fribourg;Zurich;1;0
+Lugano;Bern;3;1
+Rapperswil-Jona;Zug;3;1
+Bern;Biel;3;4
+Langnau Tigers;Rapperswil-Jona;4;5
+Lausanne;Davos;2;5
+Servette;Fribourg;1;3
+Zug;Ajoie;2;3
+Zurich;Lugano;5;2
+Ambri-Piotta;Rapperswil-Jona;0;3
+Bern;Ajoie;6;0
+Biel;Servette;6;0
+Davos;Langnau Tigers;4;5
+Fribourg;Lausanne;2;5
+Lugano;Zug;3;2
+Ajoie;Ambri-Piotta;4;0
+Biel;Davos;3;0
+Langnau Tigers;Zurich;2;6
+Rapperswil-Jona;Lausanne;5;1
+Servette;Lugano;3;5
+Zug;Fribourg;2;1
+Ambri-Piotta;Zug;1;4
+Bern;Langnau Tigers;8;1
+Davos;Rapperswil-Jona;5;3
+Lausanne;Servette;2;1
+Lugano;Biel;3;5
+Zurich;Ajoie;5;2
+Ajoie;Lugano;2;7
+Biel;Fribourg;4;3
+Langnau Tigers;Ambri-Piotta;1;3
+Servette;Bern;3;1
+Zug;Lausanne;3;1
+Ambri-Piotta;Fribourg;6;2
+Davos;Bern;3;1
+Langnau Tigers;Servette;4;5
+Rapperswil-Jona;Biel;4;6
+Zug;Zurich;5;4
+Bern;Zug;3;4
+Biel;Lausanne;3;2
+Fribourg;Rapperswil-Jona;3;1
+Lugano;Langnau Tigers;1;4
+Zurich;Ambri-Piotta;1;2
+Lugano;Rapperswil-Jona;2;0
+Ajoie;Biel;1;3
+Bern;Fribourg;3;6
+Zug;Davos;5;2
+Zurich;Servette;4;2
