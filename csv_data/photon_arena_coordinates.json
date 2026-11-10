@@ -103,5 +103,12 @@
     "name": "Swiss Life Arena",
     "stadt": "Zurich",
     "osm_typ": "fire_detection_system"
+  },
+  "La Chaux-de-Fonds": {
+    "lat": 47.0961318,
+    "lon": 6.8290275,
+    "name": "Patinoire",
+    "stadt": "La Chaux-de-Fonds",
+    "osm_typ": "stadium"
   }
 }
